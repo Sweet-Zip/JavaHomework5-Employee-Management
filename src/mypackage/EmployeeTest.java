@@ -9,6 +9,7 @@ public class EmployeeTest {
 
         EmployeeManager employeeManager=new EmployeeManager();
         employeeManager.meNu();
+        System.out.println("git test");
 
 
     }
